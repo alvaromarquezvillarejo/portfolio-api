@@ -20,13 +20,13 @@ API REST para gestionar tareas, desarrollada con Python.
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/alvaromarquezvillarejo/portfolio
+git clone https://github.com/alvaromarquezvillarejo/portfolio-api
 ```
 
 2. Entra en la carpeta:
 
 ```bash
-cd portfolio
+cd portfolio-api
 ```
 
 3. Crea un entorno virtual:
